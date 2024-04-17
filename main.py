@@ -102,6 +102,7 @@ def main():
                 pygame.quit()
                 break
                 
+                
         HI_count += 1
         draw(player, HIS, elapsed_time)
 
